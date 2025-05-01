@@ -1,9 +1,15 @@
 # Sandman App
 
+Created by:
+Daniel Kim
+Ricky Herget
+Tyler Ennis
+Alejandro Cruz
+
 Clone the repo by entering the following into your command line 
 
 ```
-git clone https://gitlab.com/cs-department-ecu/csci-3030-fall-2022/section-001/team-06/sandman-app.git
+git clone https://github.com/itsAlex58/Sandman_App/tree/main/sandman-app.git
 ```
 
 ## How to Use
